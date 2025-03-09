@@ -34,3 +34,8 @@
 .pagination button{
     margin-right: 10px;
 }
+
+.selected{
+    background-color: rgb(2, 73, 226);
+    color: white;
+}
